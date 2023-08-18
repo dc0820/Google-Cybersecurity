@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a passionate and dedicated cybersecurity professional with a strong background in securing digital assets and mitigating online threats. With [X years] of experience in the industry, I have successfully implemented robust security measures to safeguard sensitive information and ensure the integrity of systems.
+I am a passionate and dedicated cybersecurity professional with a strong background in securing digital assets and mitigating online threats. With [6 years] of experience, I have successfully implemented robust security measures to safeguard sensitive information and ensure the integrity of systems.
 
 ## Expertise
 
@@ -26,8 +26,8 @@ I am a passionate and dedicated cybersecurity professional with a strong backgro
 ## Projects and Achievements
 
 - Implemented a company-wide encryption protocol, ensuring the confidentiality of sensitive data at rest and in transit.
-- Designed and conducted a simulated phishing campaign, increasing employee awareness and reducing successful phishing attempts by [percentage].
-- Collaborated with [team/department] to develop a comprehensive disaster recovery plan, reducing downtime in the event of a cyber incident.
+- Designed and conducted a simulated phishing campaign, increasing employee awareness and reducing successful phishing attempts by [78%].
+- Collaborated with [IT Security] to develop a comprehensive disaster recovery plan, reducing downtime in the event of a cyber incident.
 
 ## Contact Information
 - LinkedIn: [www.linkedin.com/in/danielwaynecook]
